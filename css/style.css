@@ -1,0 +1,333 @@
+body, html{
+  font-family: Arial, sans-serif;
+  overflow-x:hidden;
+}
+
+.cap{
+  height: 60px;
+  background-color: #E66A2C;
+  padding: 10px;
+}
+.blockTextCap{
+  display: inline-block;
+  color: white;
+  font-size: 25px;
+  margin-left: 140px;
+  cursor: pointer;
+}
+.navigation{
+  display: inline-block;
+  margin: 0px 10px;
+}
+.rightSide{
+  margin-left: 140px;
+}
+
+.logotipLocate{
+  position: absolute;
+  top: 74px;
+}
+.logotip{
+  position: relative;
+
+}
+.logotipIMGblock{
+  position: absolute;
+  left: 15px;
+}
+.logotimIMG{
+  width: 261px;
+}
+.logotipTextBlock{
+  position: absolute;
+  top: 65px;
+  left: 124px;
+  width: 950px;
+  line-height: 1;
+}
+.logotipText{
+  font-size: 75px;
+  color: white;
+}
+.logotipSubText{
+  font-size: 40px;
+  color: white;
+}
+
+.sectionName{
+  display: block;
+  text-align: center;
+  margin: 10px;
+}
+.badges{
+  width: 50px;
+  text-align: center;
+  display: inline-block;
+}
+.nameText{
+  display: inline-block;
+  color: #e66a2c;
+  font-size: 40px;
+}
+
+.col-xl-3{
+  margin-left: 100px;
+}
+.popCountryBlock{
+  display: inline-block;
+  position: relative;
+  background-color: #e66a2c;
+  border-radius: 30px;
+  padding: 10px 15px;
+}
+.imgCountryBlock{
+  text-align: center;
+}
+.imgCountry{
+  border-radius: 50% 50% 0 0 / 100% 100% 0 0;
+}
+.nameCountryBlock{
+  position: relative;
+  margin-left: 32px;
+}
+.nameCountry{
+  display: inline-block;
+  font-size: 40px;
+  color: white;
+}
+.countryFlagBlock{
+  display: inline-block;
+  position: absolute;
+  top: 5px;
+}
+.countryFlag{
+  width: 40px;
+}
+.countryAppraisalBlock{
+  display: inline-block;
+  position: absolute;
+  top: 8px;
+  right: 34px;
+}
+.countryAppraisal{
+  width: 189px;
+}
+.descriptionCountryBlock{
+  text-align: center;
+  margin: 0px 30px;
+}
+.descriptionCountry{
+  color: white;
+  font-size: 21px;
+}
+.price{
+  margin-top: 20px;
+}
+.standart__btn{
+  text-align: center;
+}
+.standartForm__btn{
+  background-color: #e66a2c;
+  border: 0px solid white;
+  border-radius: 20px;
+  color: white;
+  font-size: 30px;
+  padding: 5px 15px;
+  margin: 25px;
+}
+.standartForm__btn:focus {
+  outline: 0;
+  outline-offset: 0;
+}
+
+.filtersSearchCountry{
+  background-color: #F2F2F2;
+}
+.enter{
+  margin-top: 10px;
+}
+.titleFilters{
+  font-size: 30px;
+  color: #E66A2C;
+}
+.select{
+  display: block;
+  position: relative;
+  margin-bottom: 5px;
+}
+.textSelectBlock{
+  position: absolute;
+  top: 0px;
+  left: 20px;
+  color: #484848;
+}
+.selectBlock__checkbox{
+  display: inline-block;
+}
+.two_string{
+  position: absolute;
+  top: 20px;
+}
+.two_stringMargin{
+  margin-bottom: 30px;
+}
+
+.subTitleBlock{
+  text-align: center;
+  color:#E66A2C;
+  font-size: 30px;
+  margin: 20px 0px;
+}
+.countryAll{
+  display: block;
+  margin-top: 15px;
+}
+.flagblock{
+  display: inline-block;
+}
+.flagAll{
+  width: 40px;
+}
+.nameCountreBlockAll{
+  display: inline-block;
+  font-size: 30px;
+  color: #484848;
+  cursor: pointer;
+}
+
+.otstup{
+  height: 100px;
+}
+
+.IMGBlock{
+  display: inline-block;
+}
+.buyInfoImg{
+  width: 200px;
+}
+.textInfoBlock{
+  display: inline-block;
+  color:#E66A2C;
+}
+.textInfo{
+  font-size: 30px;
+}
+
+.center{
+  text-align: center;
+  display: inline-block;
+}
+
+.titleblock{
+  text-align: center;
+  margin: 50px 0px 30px 0px;
+}
+.titleEmail{
+  font-size: 30px;
+}
+.EmailSend{
+  font-size: 25px;
+}
+.disp{
+  display: inline-block;
+  text-align: center;
+}
+.subminitext{
+  font-size: 15px;
+  line-height: 1;
+}
+
+.comments{
+  background-color: #F2F2F2;
+}
+.bgcomment{
+  background-color: #E66A2C;
+  margin-left: 120px;
+}
+.lb{
+  border-top-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+}
+.ob{
+  border-radius: 25px;
+}
+.rb{
+  border-top-right-radius: 25px;
+  border-bottom-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+}
+.nameClientBlock{
+  text-align: center;
+  color: white;
+}
+.nameClient{
+  font-size: 30px;
+}
+
+.footer{
+  background-color: #868686;
+  color: white;
+  padding: 20px 0px;
+}
+.icon{
+  width: 40px;
+  display: inline-block;
+  cursor: pointer;
+  margin-right: 10px;
+  margin-top: 5px;
+}
+.downloadMobile{
+  width: 300px;
+}
+.numbermobileText{
+  font-size: 40px;
+}
+
+.searchCountry{
+  margin-left: 50px;
+  margin-bottom: 20px;
+}
+
+a {
+  color: white !important;
+  text-decoration: none
+}
+
+.bgColor{
+  background-color: #F2F2F2;
+}
+.signIn{
+  text-align: center;
+  width: 640px;
+  padding: 10px 20px;
+  background-color: white;
+  margin-top: 30px;
+  border-radius: 30px;
+
+  position: fixed; top: 50%; left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+.signInTitleBlock{
+  text-align: center;
+  font-size: 40px;
+  color: #484848;
+}
+.signInBlock__input{
+  margin-bottom: 20px;
+}
+.title__label{
+  font-size: 25px;
+}
+.inputEmail{
+  min-width: 326px;
+  max-width: 540px;
+  border-radius: 10px;
+  padding: 5px 10px;
+  font-size: 25px;
+}
+.register{
+  color: #E66A2C;
+}
